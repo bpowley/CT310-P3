@@ -1,2 +1,2 @@
-# CT310-P3
-CT310 Project 3
+# CT310-P2
+our CT-310 project 2 repo

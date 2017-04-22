@@ -1,0 +1,12 @@
+<?php
+class Utils{
+	/**
+	 * File containing utility 
+	
+	public static funtion checkForError($field_name){
+		global $errors;
+		return (isset($errors[$field_name]))? " error": "";
+	}
+}
+
+?>
